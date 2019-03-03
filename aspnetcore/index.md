@@ -20,7 +20,7 @@ ASP.NET Core es un marco multiplataforma de [código abierto](https://github.com
 
 ## <a name="why-use-aspnet-core"></a>¿Por qué debería usar ASP.NET Core?
 
-Millones de desarrolladores han usado [ASP.NET 4.x](/aspnet/overview) (y siguen usándolo) para crear aplicaciones web. ASP.NET Core es un nuevo diseño de ASP.NET 4.x que cuenta con cambios en la arquitectura que dan como resultado un marco más sencillo y modular.
+Millones de desarrolladores han usado (y continúan usando) [ASP.NET 4.x](/aspnet/overview) para crear aplicaciones web. ASP.NET Core es un nuevo diseño de ASP.NET 4.x que cuenta con cambios en la arquitectura que dan como resultado un framework más ágil y modular.
 
 [!INCLUDE[](~/includes/benefits.md)]
 
